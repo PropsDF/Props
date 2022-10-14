@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.IMG {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("../assets/fundo.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    align-items: center;
+    margin: 0;
+}
+
+.Login {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    width: 17rem;
+}
+.Input {
+    padding: .3rem;
+    margin: 5px;
+    margin-left: 1.5rem;
+}
+.ButtonEntrar {
+    display: flex;
+    padding: 10px;
+    margin-left: 7.2rem;
+    border-radius: 8px;
+
+}
+
